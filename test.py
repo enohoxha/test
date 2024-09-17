@@ -6,7 +6,7 @@ def check_even_odd(number):
 
 
 # Example usage:
-print(check_even_odd(4))  # Output: 4 is even.
-print(check_even_odd(7))  # Output: 7 is odd.
-print(check_even_odd(13))  # Output: 13 is odd.
-print(check_even_odd(18))  # Output: 14 is even.
+print(check_even_odd(1))  # Output: 4 is even.
+print(check_even_odd(2))  # Output: 7 is odd.
+print(check_even_odd(3))  # Output: 13 is odd.
+print(check_even_odd(4))  # Output: 14 is even.
