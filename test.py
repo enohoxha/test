@@ -14,3 +14,4 @@ print(check_even_odd(6))  # Output: 14 is even.
 print(check_even_odd(10))  # Output: 14 is even.
 print(check_even_odd(11))  # Output: 14 is even.
 print(check_even_odd(12))  # Output: 14 is even.
+print(check_even_odd(7))  # Output: 14 is even.
