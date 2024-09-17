@@ -10,3 +10,7 @@ print(check_even_odd(1))  # Output: 4 is even.
 print(check_even_odd(2))  # Output: 7 is odd.
 print(check_even_odd(3))  # Output: 13 is odd.
 print(check_even_odd(5))  # Output: 14 is even.
+print(check_even_odd(6))  # Output: 14 is even.
+print(check_even_odd(10))  # Output: 14 is even.
+print(check_even_odd(11))  # Output: 14 is even.
+print(check_even_odd(12))  # Output: 14 is even.
